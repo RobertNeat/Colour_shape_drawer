@@ -18,7 +18,9 @@ To use/install the app you have to have installed XCode IDE in the MacOS. Simply
 
 1. Example shapes that app draws
 
+<span>
 <img src="https://github.com/RobertNeat/Colour_shape_drawer/blob/main/screenshots/1_first_launch.png" width="200"/>
 <img src="https://github.com/RobertNeat/Colour_shape_drawer/blob/main/screenshots/2_circle_green.png" width="200"/>
 <img src="https://github.com/RobertNeat/Colour_shape_drawer/blob/main/screenshots/3_orange_ellipse.png" width="200"/>
 <img src="https://github.com/RobertNeat/Colour_shape_drawer/blob/main/screenshots/4_cyan_square.png" width="200"/>
+</span>
